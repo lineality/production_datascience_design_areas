@@ -149,13 +149,12 @@ For document processing in real life this can be the most critical issue, yet it
 
 # Questions about Production Practices
 
+Also See:
+- https://github.com/lineality/project_areas_for_project_and_product_management 
+- https://github.com/lineality/production_datascience_design_areas 
 
 1. Projects
-A first introductory general question:
-
 What project areas do you think are especially or most important?
-https://github.com/lineality/project_areas_for_project_and_product_management 
-
 
 2. Production
 What Production areas do you think are especially or most important?
@@ -172,11 +171,11 @@ How do you handle:
 - Reporting issues within Agile (problems with project areas, e.g. standard predictable schedule problems)
 
 4. Accountability, Communication and Contact
-Basically a Whistleblower Question:
+Whistleblower Question:
 - Is there someone accountable to report to when process is not being followed?
 (e.g. standard schedule breakdown areas)
 
-5. 
+5. Transparency and Traceability
 - Explainability
 - Reproducibility
 - Testability, evaluation, benchmarks
