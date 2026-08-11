@@ -3,24 +3,24 @@
 ### Production Data-Science Design Areas & Questions
 
 # Connected areas:
-- needs and goals evaluation
+- Needs and Goals Evaluation
 https://github.com/lineality/needs_goals_assessment_disambiguation 
 - Project Areas https://github.com/lineality/project_areas_for_project_and_product_management 
-- project-definition: definition behavior studies
+- Project Definition: Definition Behavior Studies
 https://github.com/lineality/definition_behavior_studies 
-- coordinated decisions
+- Coordinated Decisions
 https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_Pads 
 
 
 # Production Data-Science Design Areas:
 
-1. internal-use or external-use?
+1. Internal-use or external-use?
 
 2. Local, On-Edge, Distributed, Networked, Cloud, Etc.
 
-3. full end-to-end process or on-call tool?
+3. Full end-to-end process or on-call tool?
 
-4. stateless or stateful?
+4. Stateless or stateful?
 
 5. Latency more than 30-sec or not?
 
@@ -73,7 +73,7 @@ https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_P
 
 # Generative-Model Specific Questions
 
-1. local, batch, at-scale, cloud,
+1. Local, batch, at-scale, cloud,
 
 2. Output structuring and details of deployment
 - self-hosted, 
@@ -98,10 +98,10 @@ https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_P
 8. Full automation vs. semi-automating tool
 - the fact that this dummy-project generates an unstructured text-field is suspicious, suggesting that this a solution in search of a problem, automatically and verbosely generating possibly useless and illogical documentation-word salad that some human being will manually need to inspect, as opposed to a tool designed to be used by a person for something more specific.
 
-Small-Clear-Task-Doer: Good, Best
-Big-automated-task-doer: Dubious, but can be good.
-Task-Helper: Good, flexible.
-Automated-Unchecked-Documentation-Generator: Very Bad. 
+- Small-Clear-Task-Doer: Good, Best
+- Big-automated-task-doer: Dubious, but can be good.
+- Task-Helper: Good, flexible.
+- Automated-Unchecked-Documentation-Generator: Very Bad. 
 
 9. Definition, Testing, Evaluation, Benchmarking, Auditing:
 Is something designed so that what it is doing is clearly defined in such as way that it can, effectively, be 
@@ -120,11 +120,11 @@ Is something designed so that what it is doing is clearly defined in such as way
 - the project-scope and time required
 - Language Rust vs. Python
 
-12. scalability
+12. Scalability
 
-13. maintainability
+13. Maintainability
 
-14. deployability
+14. Deployability
 - on edge
 - in a serverless endpoint
 - consistently fast enough to be an endpoint under 30-sec. (backend-frontend latency, the need for 'step functions' etc.)
