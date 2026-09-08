@@ -9,7 +9,9 @@ https://github.com/lineality/needs_goals_assessment_disambiguation
 - Project Definition: Definition Behavior Studies
 https://github.com/lineality/definition_behavior_studies 
 - Coordinated Decisions
-https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_Pads 
+https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_Pads
+- Task Logistics
+https://github.com/lineality/uma_productivity_collaboration_tool/blob/main/t_is_for_task.md
 
 
 # Production Data-Science Design Areas:
