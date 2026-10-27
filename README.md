@@ -9,9 +9,7 @@ https://github.com/lineality/needs_goals_assessment_disambiguation
 - Project Definition: Definition Behavior Studies
 https://github.com/lineality/definition_behavior_studies 
 - Coordinated Decisions
-https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_Pads
-- Task Logistics
-https://github.com/lineality/uma_productivity_collaboration_tool/blob/main/t_is_for_task.md
+https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_Pads 
 
 
 # Production Data-Science Design Areas:
@@ -185,4 +183,20 @@ Whistleblower Question:
 6. 
 - Managing structured and unstructured data
 - Managing scope of decomposition and re-integration
+- Managing and understanding state and statefulness
 
+
+# Design Questions for Evaluation & Production
+
+Before the fuzziness of Gen-AI it was already difficult to coordinate clear and focused goals with clear and meaningful feedback and evaluations across teams and project-management. After 2023 that task may be even more difficult.
+
+Beyond distinctions between features and tradeoffs, there can also be a significant distinction between A. implementing a known solution (that can be and already is carried out by a qualified person) to a clearly identified known problem vs. B. an arm-wavy reification punt and a potemkin village of distractions that obscure the absence of either a defined problem or a testable solution.
+
+As with needs and goals evaluation it might help to break this topic down into an array of more specific questions. For example, you can describe parts and wholes of your proposed architecture in terms of these four basic types. What kind of data are coming in (input), and what is going out (output)?
+
+1. Structured to Structured
+2. Unstructured to Structured
+3. Structured to Unstructured
+4. Unstructured to Unstructured
+
+Traditional software and data science (AI/ML) usually try to adhere to the first area where everything is clearly defined. Some solutions specifically focus on being able to translate less structured into the preferred structured mode. The last two may be areas where you need to be careful in your design, both in terms of risks and liabilities and in terms of possible confusion in your plans. Where and how do you want less structured output, and what are the motivations and goals of that?
